@@ -6,7 +6,7 @@
 # -----------------------------------------------------------------------------
 # SECRETS — never commit these
 # -----------------------------------------------------------------------------
-.env
+.envFood-Intel - Data Engineering & AI Analytics Platform on AWSFood-Intel - Data Engineering & AI Analytics Platform on AWS
 .env.local
 .env.production
 !.env.example
